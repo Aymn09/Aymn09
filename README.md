@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aymen.
-- 👀 I’m interested in developing.
+- 👀 I’m interested in web developing.
 - 🌱 I’m currently Studying Computer Science.
 - 💞️ I’m looking to collaborate on Web Development.
 
